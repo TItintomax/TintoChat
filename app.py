@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 import TelaInicial
 from TelaInicial import main
-import flet as ft
+
 
 app = FastAPI()
 
