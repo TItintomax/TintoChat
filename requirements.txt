@@ -1,4 +1,4 @@
-﻿fastapi==0.104.1
+fastapi==0.104.1
 flet==0.13.0
 flet-core==0.13.0
 flet-runtime==0.13.0
