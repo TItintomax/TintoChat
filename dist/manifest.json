@@ -1,6 +1,6 @@
 {
-  "name": "Flet",
-  "short_name": "Flet",
+  "name": "Tintomax",
+  "short_name": "Tinto",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -10,7 +10,7 @@
   "prefer_related_applications": false,
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "icons/icon.png",
       "sizes": "192x192",
       "type": "image/png"
     },
