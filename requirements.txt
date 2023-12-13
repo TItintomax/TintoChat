@@ -3,4 +3,3 @@ flet
 nltk
 openai
 anyio==3.7.1
-ssl
