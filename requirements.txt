@@ -2,4 +2,4 @@ fastapi
 flet
 nltk
 openai
-anyio
+anyio==3.7.1
