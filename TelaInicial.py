@@ -210,6 +210,9 @@ def main(page: ft.Page):
         page22: ft.Page
         page.window_visible = False
         page.update()
+        page22.add(
+            ft.Text(bgcolor="black")
+        )
 
     pb = ft.PopupMenuButton(
         items=[
@@ -241,7 +244,6 @@ def main(page: ft.Page):
         ft.Divider(height=2, color="transparent"),
         prompt,
         button_row,
-        timer_text,
         menuCheck,
     )
     page.update()

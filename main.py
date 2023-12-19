@@ -3,7 +3,7 @@ import time
 
 assistente_id = "asst_Lpp39R8VzSBDPwFAPElp1281"
 assistente_id2 = "asst_rxWHfGv7nyWFLOThNlyVVyX6"
-api_key = "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"
+api_key = "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"
 
 openai.api_key = api_key
 
